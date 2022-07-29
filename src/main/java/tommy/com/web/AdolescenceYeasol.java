@@ -1,8 +1,9 @@
 package tommy.com.web;
 
-public class BabyYeasol {
+public class AdolescenceYeasol {
+	
 	public static void main (String[] args) {
-		System.out.println("응애");
+		System.out.println("반항할꺼양");
 	}
 
 }
